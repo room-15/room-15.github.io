@@ -1,10 +1,10 @@
 # Android Room Rules Template
 
-This repo is used to hold the pre-built content for the [Stack Overflow Android chat room][room15]'s rules. To build the rules, you'll need a version of Ruby and the [kramdown] gem installed. You may optionally substitute kramdown for any multimarkdown utility that's compatible with its extensions by setting and exporting the MULTIMARKDOWN environment variable.
+This repo is used to hold the pre-built content for the [Stack Overflow Android chat room][room15]'s rules. To build the rules, you'll need a version of Ruby and the [kramdown] gem installed. You may optionally substitute kramdown for any multimarkdown utility that's compatible with its extensions by setting and exporting the `MULTIMARKDOWN` environment variable.
 
 Once you've got kramdown or something equivalent, run the `build` script and the index.html will be popped out.
 
-Currently, the built rules are hosted at <http://spifftastic.net/room.15/>.
+Currently, the built rules are hosted at <http://room-15.github.io>.
 
 For quick reference:
 
