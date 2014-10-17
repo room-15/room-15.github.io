@@ -62,6 +62,6 @@ The choice to enforce the rules is at the discretion of each room owner. The rul
 
 <section markdown='1'>
 
-The source for these rules can be found on [GitHub](https://github.com/nilium/android-room-rules).
+The source for these rules can be found on [GitHub](https://github.com/room-15/room-15.github.io).
 
 </section>
