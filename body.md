@@ -52,7 +52,7 @@ The rules are as follows:
 
 7. Don't flag messages you find personally offensive (e.g., swear words, blasphemy, and so on). It just annoys the people who have to respond to flags.
 
-8. When you go to the store to buy bourbon, don't shame your honor by buying cheap, bottom-shelf stuff. That will only embarass you.
+8. When you go to the store to buy bourbon, don't shame your honor by buying cheap, bottom-shelf stuff. That will only embarrass you.
 
 The choice to enforce the rules is at the discretion of each room owner. The rules are purposefully difficult to break, we just ask that you not be a dick. Cheers, have fun, and be excellent to one another.
 
