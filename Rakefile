@@ -20,5 +20,6 @@ task :travis do
   system 'git add index.html'
   system 'git commit -am "Generate the github page"'
   system 'git push origin master'
+  
   File.delete '.git/credentials'
 end
