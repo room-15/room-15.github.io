@@ -10,9 +10,11 @@ task :travis do
   system "git config user.email '#{ENV['GIT_EMAIL']}'"
   system 'git config credential.helper "store --file=.git/credentials"'
   system "git checkout #{deploy_branch}"
+  
   File.open('.git/credentials', 'w') do |f|
     f.write("https://#{ENV['GH_TOKEN']}:@github.com")
   end
+  
   system './build'
   system 'git add .'
   system 'git commit -am "Build"'
