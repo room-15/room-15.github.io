@@ -15,11 +15,11 @@ task :travis do
     f.write("https://#{ENV['GH_TOKEN']}:@github.com")
   end
 
-  system './build'
+  system './build.sh'
   system 'git diff'
   system 'git add index.html'
   system 'git commit -am "Generate the github page"'
   system 'git push origin master'
-  
+
   File.delete '.git/credentials'
 end
