@@ -17,7 +17,7 @@ task :travis do
 
   system './build'
   system 'git diff'
-  system 'git add .'
+  system 'git add index.html'
   system 'git commit -am "Build"'
   system 'git push origin master'
   File.delete '.git/credentials'
