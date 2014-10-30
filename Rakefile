@@ -14,8 +14,9 @@ task :travis do
   File.open('.git/credentials', 'w') do |f|
     f.write("https://#{ENV['GH_TOKEN']}:@github.com")
   end
-  
+
   system './build'
+  system 'git diff'
   system 'git add .'
   system 'git commit -am "Build"'
   system 'git push origin master'
