@@ -27,9 +27,6 @@ You can request write access once you've joined the room. When a room owner is a
 
 1. Before you ask a question here, first [thoroughly](http://stackoverflow.com/search) [research](http://programmers.stackexchange.com/search) [it](https://www.google.com) [yourself](http://www.ietf.org/rfc.html), and post it on [Stack Overflow](http://stackoverflow.com/) (or another appropriate Stack Exchange site, like [programmers.se](http://programmers.stackexchange.com/)). We also expect you to read the [Android developer site](http://developer.android.com/) before asking a question about Android.
 
-    When you share a link to an SO question, paste the link in the chat box with no other text. This allows the chat to one-box the question.
-    {: .note}
-
 2. Use English and try to write well. This means no chat-speak (e.g., "u r vry gud i m new dev lol").
 
 3. Don't paste blocks of code into the chat. Make a [gist] or use another pastebin if you must share code. Any code in the chatroom should be limited to one line at about 80 columns max.
