@@ -39,7 +39,7 @@ You can request write access once you've joined the room. When a room owner is a
 
 7. Don't flag messages you find personally offensive (e.g., swear words, blasphemy, and so on). It just annoys the people who have to respond to flags.
 
-8. Only codeMagic is allowed to buy and drink ass-Bourbon. Everyone else should know better.
+8. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
 
 The choice to enforce the rules is at the discretion of each room owner. The rules are purposefully difficult to break, we just ask that you not be a dick. Cheers, have fun, and be excellent to one another.
 
