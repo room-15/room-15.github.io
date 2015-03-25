@@ -10,6 +10,8 @@ You can request write access once you've joined the room. When a room owner is a
 
 ### Requirements for access:
 
+- **The minimum reputation required for access is 100 points on StackOverflow.**
+
 - Don't display obvious [help-vampire](http://slash7.com/2006/12/22/vampires/) qualities.
 
 - Don't use a default username, such as user31415926, or u234. We prefer you choose a name that won't be lost among the others — user1234, user2341, and user3241 are hard to pick apart in discussions.
