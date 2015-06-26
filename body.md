@@ -36,7 +36,7 @@ You can request write access once you've joined the room. When a room owner is a
 4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention. Pinging for help is bannable.
 
 5. Everything kitty-related is allowed.
-6. Your first message must be "CarlAnderson, get off my damn lawn!" or you face possible banishment.
+6. Your first message must be "I HAVE READ AND UNDERSTAND THE RULES" or you face possible banishment.
 
 6. Images MUST be safe for work. Please don't post unprofessional images. Kitties and unicorns: okay. A screenshot of your app: sure. Twerking: no.
 
