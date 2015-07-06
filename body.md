@@ -36,13 +36,14 @@ You can request write access once you've joined the room. When a room owner is a
 4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention. Pinging for help is bannable.
 
 5. Everything kitty-related is allowed.
-6. Your first message must be "I HAVE READ AND UNDERSTAND THE RULES" or you face possible banishment.
 
-6. Images MUST be safe for work. Please don't post unprofessional images. Kitties and unicorns: okay. A screenshot of your app: sure. Twerking: no.
+6. Your first message must be "I have read and understood the rules".
 
-7. Don't flag messages you find personally offensive (e.g., swear words, blasphemy, and so on). It just annoys the people who have to respond to flags.
+7. Images MUST be safe for work. Please don't post unprofessional images. Kitties and unicorns: okay. A screenshot of your app: sure. Twerking: no.
 
-8. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
+8. Don't flag messages you find personally offensive (e.g., swear words, blasphemy, and so on). It just annoys the people who have to respond to flags.
+
+9. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
 
 The choice to enforce the rules is at the discretion of each room owner. The rules are purposefully difficult to break, we just ask that you not be a dick. Cheers, have fun, and be excellent to one another.
 
