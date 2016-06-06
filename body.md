@@ -10,13 +10,13 @@ You can request write access once you've joined the room. When a room owner is a
 
 ### Requirements for access:
 
-- **The minimum reputation required for access is 100 points on StackOverflow.**
+- **The minimum reputation required for access is 80 points on StackOverflow.**
 
 - Don't display obvious [help-vampire](http://slash7.com/2006/12/22/vampires/) qualities.
 
 - Don't use a default username, such as user31415926, or u234. We prefer you choose a name that won't be lost among the others — user1234, user2341, and user3241 are hard to pick apart in discussions.
 
-- Make sure you've asked and answered reasonable questions on Stack Overflow. We expect you to have contributed somehow to Stack Overflow before joining the chat, and that you've answered at least as many questions as you've asked.
+- Make sure you've asked and answered reasonable questions on Stack Overflow. We expect you to have contributed somehow to Stack Overflow before joining the chat, and that your Answer to Question ratio is not worse than 3:4.
 
 - Don't request write access repeatedly in an effort to get attention. This just annoys us, and we'll put you on the ban list.
 
