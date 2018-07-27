@@ -28,11 +28,11 @@ If you are denied access you should not request write access again before you ha
 
 <section markdown='1'>
 
-1. Before you ask a question here we expect you to have done your own research on the matter. This includes but is not limited to having searched on Stack Overflow, android developer documentation and search engines. If the applicable, we also expect you to have asked the question on Stack Overflow.
+1. Before you ask a question here we expect you to have done your own research on the matter. This includes but is not limited to having searched on Stack Overflow, android developer documentation and search engines. If applicable, we also expect you to have asked the question on Stack Overflow.
 
-2. Communicate in English and to the best of your ability. We don't expect everybody to master the language but we do not want to see chat-speak (e.g. "u r vry gud i m new dev lol").
+2. Communicate in English to the best of your ability. We don't expect everyone to master the language but we do not want to see chat-speak (e.g. "u r vry gud i m new dev lol").
 
-3. Make a [gist] or use a similar tool if you want to share code. Any code posted in the room should fit in one or two lines.
+3. Make a [gist] or use a similar tool if you want to share code. Any code posted in the room should fit on one or two lines.
 
 4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention.
 
