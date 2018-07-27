@@ -34,7 +34,7 @@ If you are denied access you should not request write access again before you ha
 
 3. Make a [gist] or use a similar tool if you want to share code. Any code posted in the room should fit in one or two lines.
 
-4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention. Pinging for help is bannable.
+4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention.
 
 5. All posted content must be safe for work. If you want to share an image or a link that is not safe for work, hide the content in a hyperlink and include NSFW in the title (also do this if you are not sure if it is safe). The markup for such a hyperlink is `[Check this out (NSFW)](https://example.org)`.
 
