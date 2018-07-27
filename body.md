@@ -28,31 +28,33 @@ If you are denied access you should not request write access again before you ha
 
 <section markdown='1'>
 
-1. Before you ask a question here, first [thoroughly](http://stackoverflow.com/search) [research](http://programmers.stackexchange.com/search) [it](https://www.google.com) [yourself](http://www.ietf.org/rfc.html), and post it on [Stack Overflow](http://stackoverflow.com/) (or another appropriate Stack Exchange site, like [programmers.se](http://programmers.stackexchange.com/)). We also expect you to read the [Android developer site](http://developer.android.com/) before asking a question about Android.
+1. Before you ask a question here we expect you to have done your own research on the matter. This includes but is not limited to having searched on Stack Overflow, android developer documentation and search engines. If the applicable, we also expect you to have asked the question on Stack Overflow.
 
-2. Use English and try to write well. This means no chat-speak (e.g., "u r vry gud i m new dev lol").
+2. Communicate in English and to the best of your ability. We don't expect everybody to master the language but we do not want to see chat-speak (e.g. "u r vry gud i m new dev lol").
 
-3. Don't paste blocks of code into the chat. Make a [gist] or use another pastebin if you must share code. Any code in the chatroom should be limited to one line at about 80 columns max.
+3. Make a [gist] or use a similar tool if you want to share code. Any code posted in the room should fit in one or two lines.
 
 4. Don't ping users (@username-ing) unless it's to clarify who you're speaking to or you need to get a specific person's attention. Pinging for help is bannable.
 
-5. Everything kitty-related is allowed.
+5. All posted content must be safe for work. If you want to share an image or a link that is not safe for work, hide the content in a hyperlink and include NSFW in the title (also do this if you are not sure if it is safe). The markup for such a hyperlink is `[Check this out (NSFW)](https://example.org)`.
 
 6. Your first message must be "I have read and understood the rules".
 
-7. Images MUST be safe for work. Please don't post unprofessional images. Kitties and unicorns: okay. A screenshot of your app: sure. Twerking: no.
+7. Don't flag messages based on the mere presence of certain words (swearing, blasphemy, etc) which are often seen in casual language. Chat message flags raise a site-wide notification for all users with 10000+ rep, which can be annoying, especially if a flag was not really warranted.  
+Do note that while we have this policy, we do not want to discourage anyone from flagging anything they feel violates Stack Overflow's Code of Conduct or [Be Nice] policy. See [here](https://meta.stackexchange.com/help/flagging) for help with that.
 
-8. Don't flag messages you find personally offensive (e.g., swear words, blasphemy, and so on). It just annoys the people who have to respond to flags.
+8. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
 
-9. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
+Room owners are free to enforce the rules as they see fit. The room ambiance is usually quite casual and the rules are purposefully difficult to break.
 
-The choice to enforce the rules is at the discretion of each room owner. The rules are purposefully difficult to break, we just ask that you not be a dick. Cheers, have fun, and be excellent to one another.
+Cheers, have fun and enjoy your stay.
 
 [gist]: https://gist.github.com/
+[Be nice]: https://meta.stackexchange.com/help/be-nice
 
 </section>
 
-### Notes
+__Notes__
 
 <section markdown='1'>
 
