@@ -6,19 +6,20 @@
 
 <section markdown='1'>
 
-You can request write access once you've joined the room. When a room owner is available, they will check to see if you can join. We have some criteria that people must meet before they're given access.
+You can request write access once you've joined the room. When a room owner is available, they will check to see if you can join. We have some criteria that you must meet before you're given access.
 
 ### Requirements for access:
 
-- **The minimum reputation required for access is 80 points on StackOverflow.**
+- You should have at minimum 80 reputation on Stack Overflow.
 
-- Don't display obvious [help-vampire](http://slash7.com/2006/12/22/vampires/) qualities.
+- You should have contributed to Stack Overflow. For every 3 questions you have asked you should have provided at least 4 answers.
 
-- Don't use a default username, such as user31415926, or u234. We prefer you choose a name that won't be lost among the others — user1234, user2341, and user3241 are hard to pick apart in discussions.
+- You should not display obvious [help-vampire](http://slash7.com/2006/12/22/vampires/) qualities.
 
-- Make sure you've asked and answered reasonable questions on Stack Overflow. We expect you to have contributed somehow to Stack Overflow before joining the chat, and that your Answer to Question ratio is not worse than 3:4.
+- You should not have a default username (e.g. user31415926). We prefer you to have a distinguishable name. User1234, user2341, and user3241 are hard to pick apart in discussions.
 
-- Don't request write access repeatedly in an effort to get attention. This just annoys us, and we'll put you on the ban list.
+
+If you are denied access you should not request write access again before you have met the required criteria. Repeatedly requesting access is annoying and could very well get you banned from the room.
 
 </section>
 
