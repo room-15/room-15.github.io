@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-- 1.9.3
-script: rake travis
-env:
-  global:
-  - secure: asl63xg3Y5gWbFxqEHSipwVNHJMjoydQTReKVJryCfoIZQ1z+ya2ozfEDMH+7pZvpM3vm3jU+UOP4dfyGY5O12QT0OWKV+dwO2pqZzzI8nhJE6WXQaK6KKkxCdo9EF6WkCPG60J2tncdvcI1rvAKHWPWY0HfnZ3H4HMNUQbocw8=
