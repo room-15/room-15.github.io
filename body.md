@@ -12,7 +12,7 @@ You can request write access once you've joined the room. When a room owner is a
 
 - You should have at minimum 80 reputation on Stack Overflow.
 
-- You should have contributed to Stack Overflow. For every 3 questions you have asked you should have provided at least 4 answers.
+- You should have contributed to Stack Overflow. For every 4 questions you have asked you should have provided at least 3 answers.
 
 - You should not display obvious [help-vampire](http://slash7.com/2006/12/22/vampires/) qualities.
 
