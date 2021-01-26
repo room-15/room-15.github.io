@@ -43,8 +43,6 @@ If you are denied access you should not request write access again before you ha
 7. Don't flag messages based on the mere presence of certain words (swearing, blasphemy, etc) which are often seen in casual language. Chat message flags raise a site-wide notification for all users with 10000+ rep, which can be annoying, especially if a flag was not really warranted.  
 Do note that while we have this policy, we do not want to discourage anyone from flagging anything they feel violates Stack Overflow's Code of Conduct or [Be Nice] policy. See [here](https://meta.stackexchange.com/help/flagging) for help with that.
 
-8. Only codeMagic is allowed to buy and drink [ass-Bourbon](http://sourmashmanifesto.com/2012/02/01/review-rebel-yell-bourbon/). Everyone else should [know better](http://chat.stackoverflow.com/transcript/message/19483807#19483807).
-
 Room owners are free to enforce the rules as they see fit. The room ambiance is usually quite casual and the rules are purposefully difficult to break.
 
 Cheers, have fun and enjoy your stay.
